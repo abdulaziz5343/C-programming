@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main(void) {
-	int scale;
+	int scale; 
 	printf("Enter the Beaufort scale: ");
 	scanf_s("%d", &scale);
 	if (scale< 1)
