@@ -10,4 +10,4 @@ int main(void) {
 	printf("The reversal is %d%d\n", frac2, frac1);
 	return 0;
 
-}
+ }
